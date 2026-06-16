@@ -1,0 +1,36 @@
+TestCase,Module,Scenario,Priority,Run,Status,ErrorType,ExecutionTime,TestDate,Tester,Screenshot
+TC-L-001,Login,Verify Login Success,High,1,Fail,LoginFailed,2.31,2026-06-16,Hidayu Musa,screenshots\TC-L-001_Run1.png
+TC-P-001,PIM,Open PIM Page,High,1,Pass,None,4.82,2026-06-16,Hidayu Musa,None
+TC-P-002,PIM,Employee List,High,1,Pass,None,0.06,2026-06-16,Hidayu Musa,None
+TC-A-001,Admin,Open Admin Page,High,1,Pass,None,5.35,2026-06-16,Hidayu Musa,None
+TC-A-002,Admin,User List,High,1,Pass,None,5.59,2026-06-16,Hidayu Musa,None
+TC-LV-001,Leave,Open Leave Page,High,1,Pass,None,6.03,2026-06-16,Hidayu Musa,None
+TC-LV-002,Leave,Leave List,Medium,1,Pass,None,0.06,2026-06-16,Hidayu Musa,None
+TC-L-001,Login,Verify Login Success,High,2,Fail,LoginFailed,2.29,2026-06-16,Hidayu Musa,screenshots\TC-L-001_Run2.png
+TC-P-001,PIM,Open PIM Page,High,2,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-P-002,PIM,Employee List,High,2,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-A-001,Admin,Open Admin Page,High,2,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-A-002,Admin,User List,High,2,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-LV-001,Leave,Open Leave Page,High,2,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-LV-002,Leave,Leave List,Medium,2,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-L-001,Login,Verify Login Success,High,3,Fail,ElementNotClickable,2.27,2026-06-16,Hidayu Musa,screenshots\TC-L-001_Run3.png
+TC-P-001,PIM,Open PIM Page,High,3,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-P-002,PIM,Employee List,High,3,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-A-001,Admin,Open Admin Page,High,3,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-A-002,Admin,User List,High,3,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-LV-001,Leave,Open Leave Page,High,3,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-LV-002,Leave,Leave List,Medium,3,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-L-001,Login,Verify Login Success,High,4,Pass,None,5.02,2026-06-16,Hidayu Musa,None
+TC-P-001,PIM,Open PIM Page,High,4,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-P-002,PIM,Employee List,High,4,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-A-001,Admin,Open Admin Page,High,4,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-A-002,Admin,User List,High,4,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-LV-001,Leave,Open Leave Page,High,4,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-LV-002,Leave,Leave List,Medium,4,Pass,None,0,2026-06-16,Hidayu Musa,None
+TC-L-001,Login,Verify Login Success,High,5,Fail,TimeoutException,2.25,2026-06-16,Hidayu Musa,screenshots\TC-L-001_Run5.png
+TC-P-001,PIM,Open PIM Page,High,5,Pass,None,3.75,2026-06-16,Hidayu Musa,None
+TC-P-002,PIM,Employee List,High,5,Pass,None,0.06,2026-06-16,Hidayu Musa,None
+TC-A-001,Admin,Open Admin Page,High,5,Pass,None,3.77,2026-06-16,Hidayu Musa,None
+TC-A-002,Admin,User List,High,5,Pass,None,3.76,2026-06-16,Hidayu Musa,None
+TC-LV-001,Leave,Open Leave Page,High,5,Pass,None,3.83,2026-06-16,Hidayu Musa,None
+TC-LV-002,Leave,Leave List,Medium,5,Pass,None,0.05,2026-06-16,Hidayu Musa,None

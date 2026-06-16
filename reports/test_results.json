@@ -1,0 +1,28 @@
+[
+  {
+    "TestCase": "TC-L-001",
+    "Module": "Login",
+    "Scenario": "Valid Login",
+    "Priority": "High",
+    "Run": 1,
+    "Status": "Fail",
+    "ErrorType": "LoginFailed",
+    "ExecutionTime": 10.75,
+    "TestDate": "2026-06-16",
+    "Tester": "Hidayu Musa",
+    "Screenshot": "C:\\Users\\User 226\\Documents\\project Javascript + Playwright\\orangehrm-playwright-js\\reports\\screenshots\\TC-L-001_run1.png"
+  },
+  {
+    "TestCase": "TC-P-001",
+    "Module": "PIM",
+    "Scenario": "Open PIM Page",
+    "Priority": "High",
+    "Run": 1,
+    "Status": "Pass",
+    "ErrorType": "None",
+    "ExecutionTime": 1.65,
+    "TestDate": "2026-06-16",
+    "Tester": "Hidayu Musa",
+    "Screenshot": ""
+  }
+]
